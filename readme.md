@@ -1,0 +1,1 @@
+A simple web app to get recipe of dishes. Made using javascript, html and css.
